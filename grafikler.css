@@ -1,0 +1,104 @@
+.arkaplan{
+  width: 100%;
+  weight: 100%;
+}
+
+
+.header {
+  padding: 50px;
+  background: #434746;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  border:5px solid #3ABABE;
+
+}
+
+.logo {
+  float: left;
+  border:3px solid #3ABABE;
+
+
+}
+
+
+.solmenu{
+      float: left;
+      width: 310px;
+      height:300px;
+}
+
+.acilirmenu{
+    width:430px;
+    height:auto;
+    position: relative;
+    z-index: 2;
+}
+.acilirmenu ul{
+    width:310px;
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+.acilirmenu li{
+    position: relative;
+}
+.acilirmenu li ul{
+    position:absolute;
+    list-style-type:none;
+    left:179px;
+    width:310px;
+    display:none;
+    top:0;
+}
+.acilirmenu li a{
+    height:60px;
+    display: block;
+    text-decoration: none;
+    background-color: #3EA3AD;
+    color:#FFF;
+    font:500 15px Verdana;
+    padding:5px;
+    border:1px solid #FFF;
+    border-bottom:0;
+    text-align: center;
+    line-height: 50px;
+}
+.acilirmenu li a:hover{
+    background-color:#434746;
+    color:#3ABABE;
+}
+.acilirmenu li:hover ul{
+    display:block;
+}
+
+}
+.grafikler{
+
+   float:center;
+   width: 100px;
+   height:700px;
+   display: flex;
+   box-sizing:border-box;
+   position: relative;
+   margin: auto;
+
+}
+.ilksira{
+
+    width:50%;
+
+    }
+
+
+
+.kutu{
+  height: 450px;
+  box-sizing:border-box;
+  width: 900px;
+  float: center;
+  position: relative;
+   margin: auto
+
+
+  }

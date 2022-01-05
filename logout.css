@@ -1,0 +1,27 @@
+.arkaplan{
+  background: #b3d9dd;
+  width: 100%;
+  weight: 100%;
+}
+
+
+.header {
+  padding: 300px;
+  background: #434746;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  border:5px solid #3ABABE;
+
+}
+
+.logo {
+  float: left;
+  border:3px solid #3ABABE;
+
+
+}
+
+.cikis{
+font-size: 10px;
+}

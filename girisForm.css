@@ -1,0 +1,57 @@
+.arkaplan{
+  background-color: #white;
+
+}
+
+
+.logo {
+  width: 50%;
+  padding: -100px -100px;
+  margin: 15px 245px;
+  display: inline-block;
+
+}
+
+.username {
+  width: 30%;
+  padding: 10px 50px;
+  margin: 50px 450px;
+  display: inline-block;
+  border: 5px solid #434746;
+  border: 5px solid #434746;
+  box-sizing: border-box;
+}
+.password {
+  width: 30%;
+  padding: 10px 70px;
+  margin: 1px 450px;
+  display: inline-block;
+  border: 5px solid #434746;
+  box-sizing: border-box;
+}
+
+
+.button{
+  background-color: #3ABABE;
+  padding: 6px 50px;
+  margin: -50px 650px;
+  border: none;
+  cursor: pointer;
+  width: 5%;
+}
+
+
+.button:hover {
+  opacity: 5;
+}
+
+
+.cancelbtn {
+  width: auto;
+  padding: 15px 18px;
+  background-color: ##434746;
+}
+
+.container {
+  padding: 100px;
+  background-color: ##434746;
